@@ -1,0 +1,29 @@
+
+
+html { 
+  background:  url(https://thumbs.gfycat.com/DetailedWellinformedCarpenterant-size_restricted.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+body {
+  font-family: system-ui;
+  color: bisque;
+  position: relative;
+  text-align: center;
+  padding: 10px;
+  top: 400px;
+  font-size: 30;
+  }
+
+a {
+    text-decoration: none;
+}
+
+a:link {color:#FFFFFF;}
+a:visited {color:#FFFFFF;}
+a:hover {color:#848484;}
+a:active {color:#FFFFFF;}
+
+
+
+}
